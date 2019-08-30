@@ -12,12 +12,53 @@ body {
 h1{
   font-size: 40;
   font-family: fantasy;
-  background-color: lightblue;
   text-align: center;
+  background-image: url(https://www.jet2holidays.com/-/media/destination%20guide/portugal/fao_albufeira_1014_ps_01.jpg?h=500&w=1920&crop=1&hash=A0CEEE8B206195339F558064675C0E9702B72B28);
+
 }
 
 
 p{
   color: grey;
   font-family: cursive;
+  font-size: 100;
+}
+
+p1{
+  font-size: 200;
+  text-decoration:underline;
+  text-decoration-color: lightblue;
+  text-decoration-style: wavy;
+  font-weight:bolder;
+}
+
+
+p2{
+  font-size: 200;
+  text-decoration:underline;
+  text-decoration-color: lightblue;
+  text-decoration-style: wavy;
+  font-weight:bolder;
+}
+
+p3{
+  font-size: 200;
+  text-decoration:underline;
+  text-decoration-color: lightblue;
+  text-decoration-style: wavy;
+  font-weight:bolder;
+}
+
+.values{
+  font-size: 50;
+}
+
+.what{
+  font-size: 50;
+}
+
+
+.test{
+  font-size: 50;
+  color: grey;
 }
