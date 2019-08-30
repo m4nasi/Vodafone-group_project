@@ -12,6 +12,7 @@ h2{
   font-family: fantasy;
   text-align: center;
 }
+
 p2{
   color: grey;
   font-family: cursive;
@@ -26,4 +27,8 @@ h1{
 p{
   color: grey;
   font-family: cursive;
+}
+
+.carouselExampleIndicators{
+  align-items: center;
 }
